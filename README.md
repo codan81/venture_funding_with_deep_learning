@@ -9,13 +9,13 @@ network.
 
 consists of three technical deliverables:
 
-Preprocess data for a neural network model.
+1.- Preprocess data for a neural network model.
 
-Use the model-fit-predict pattern to compile and evaluate a binary classification model.
+2.- Use the model-fit-predict pattern to compile and evaluate a binary classification model.
 
 ![venture_funding_with_deep_learning](images/fit.png)
 
-Optimize the model.
+3.- Optimize the model.
 
 ![venture_funding_with_deep_learning](images/optimize.png)
 
