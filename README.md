@@ -11,13 +11,9 @@ consists of three technical deliverables:
 
 Preprocess data for a neural network model.
 
-![venture_funding_with_deep_learning](images/prepairing_the_data)
-
 Use the model-fit-predict pattern to compile and evaluate a binary classification model.
 
 ![venture_funding_with_deep_learning](images/fit.png)
-![venture_funding_with_deep_learning](images/evaluate.png)
-
 
 Optimize the model.
 
